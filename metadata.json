@@ -1,0 +1,8 @@
+{
+  "name": "Remix IELTS Adaptive Learning Platform",
+  "description": "Nền tảng luyện thi IELTS học thuật thích ứng, phân tích điểm yếu, suy luận nguyên nhân gốc rễ và đề xuất lộ trình cá nhân hóa trực quan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
